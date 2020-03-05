@@ -1,15 +1,31 @@
 #text-color {
-    color: black;
+    color: white;
+    margin-left: 650px;
 }
 
 .text-colour {
     color: red;
+    margin-left: 550px;
 }
 #Header {
-    background-color: darkred;
+    background-color: black;
     width: 1500px;
     height: 100px;
     font-size: 80px;
     font-style: italic;
+    font-weight: 900;
+    margin-left: 450px;
+    color: white;
     }
-
+img {
+    width: 800px;
+    height: 700px;
+    margin-top: 1px;
+    margin-right: 350px;
+    margin-left: 340px;
+    margin-bottom: 200px;
+}
+body {
+    background-color: black;
+  }
+  
